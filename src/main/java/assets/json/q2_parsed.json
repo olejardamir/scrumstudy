@@ -1,0 +1,172 @@
+[
+	{
+		"question": "What does the Product Owner do during a Sprint?",
+		"answers": "A) Protects the Team and the process\nB) Clarifies requirements and answers questions (Correct Answer)\nC) Guides the Team in its work\nD) Intervenes when required to make sure the pace of work is sustainable",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Which role is responsible for turning the Product Backlog into incremental pieces of functionality?",
+		"answers": "A) Product Owner\nB) ScrumMaster\nC) Team (Correct Answer)\nD) Everyone within the Project",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "If a Team member is consistently late for the Daily Scrum, what is usually the first thing a Team should do?",
+		"answers": "A) Report the Team member to his or her manager\nB) Have the Team member do the testing\nC) Meet with the Team member to determine a solution (Correct Answer)\nD) Ask the ScrumMaster to move the Team member off the Team",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "During a Daily Scrum meeting, Olivia mentions she has found some open source code she thinks will solve one of the problems she has been working on. She wants to implement it immediately. What is the best next step?",
+		"answers": "A) The ScrumMaster tells Olivia to prepare an example and presentation for the Team so they can consider using the code\nB) After the Daily Scrum meeting is held, a separate meeting is conducted to discuss the opensource solution (Correct Answer)\nC) All members of the Team are told to evaluate Olivia's solution and report back to the team at the next Daily Scrum meeting.\nD) The Product Owner notes the impediment and solves the problem after the meeting",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Who is responsible for facilitating the Sprint Retrospective Meeting?",
+		"answers": "A) Team\nB) Product Owner\nC) ScrumMaster (Correct Answer)\nD) No one",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "Which role is MOST LIKELY to communicate an impediment during a Daily Scrum?",
+		"answers": "A) Product Owner\nB) Team (Correct Answer)\nC) Stakeholders\nD) ScrumMaster",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Who is primarily responsible for maintaining the Product Backlog?",
+		"answers": "A) Scrum Development Team\nB) ScrumMaster\nC) Product Owner (Correct Answer)\nD) Stakeholders",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "What is the ScrumMaster's role in the Sprint Retrospective?",
+		"answers": "A) To determine the re-composition of the Team\nB) To facilitate the Team's search for improvements (Correct Answer)\nC) To lead the Team in the evaluation of each individual Team member\nD) To provide answers to the challenges that the Team identifies",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Which of the following is true concerning impediments?",
+		"answers": "A) The Team should not use daily Scrum meetings to report impediments\nB) It is the ScrumMaster's top priority to remove impediments (Correct Answer)\nC) It is the Product Owner's job to remove impediments.\nD) A slow running server is not considered an impediment",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Why should the Product Owner attend the Daily Scrum?",
+		"answers": "A) To comment on the Team's progress\nB) To make sure the Team is still on target for its Sprint goals\nC) To tell the Team which tasks to work on next and update the Product Backlog\nD) To see the progress being made and determine whether the Team needs help(Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "In a 30-day Sprint, how long is the Sprint Review Meeting?",
+		"answers": "A) Four hours maximum (Correct Answer)\nB) Four to eight hours\nC) At least eight hours\nD) As long as required",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "Which of the following is a responsibility of the Product Owner?",
+		"answers": "A) Determine the appropriate release dates (Correct Answer)\nB) Determine the appropriate technical solution for the project.\nC) Determine the Team composition necessary for success\nD) Determine the length of the Sprints",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "What are the desirable qualities of a Product Vision?",
+		"answers": "A) Features a detailed overview that enlightens and inspires\nB) Provides a complete breakdown structure of the ROI formula\nC) Describes why the project is pursued and the product desired end state (Correct Answer)\nD) Outlines traceability back to overall corporate governance in IT investment",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "Which of the following statements is TRUE about Scrum teams and planning?",
+		"answers": "A) Scrum Teams place value in following a plan, but they value responding to change even more (Correct Answer)\nB) Planning is not important in Scrum.\nC) Scrum is intended to be an efficient way to carry out plans that have already been made\nD) Traditional planning is replaced by the Sprint Burndown chart",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "The ScrumMaster...",
+		"answers": "A) Controls the priority order of items in the team's backlog\nB) Is the Team's Scrum expert. (Correct Answer)\nC) Creates, refines and communicates customer requirements to the Team\nD) Is the keeper of the product vision",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "According to Scrum guidelines, who is responsible for hiring or assigning a new person into a Team?",
+		"answers": "A) ScrumMaster\nB) Product Owner\nC) This is outside of the scope of Scrum\nD) The self-managing Team (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "If a Team determines that it has over-committed itself for a Sprint, who should be present when reviewing and adjusting the Sprint goal and work?",
+		"answers": "A) Product Owner and Stakeholders\nB) Product Owner, Scrum Master, and Team (Correct Answer)\nC) ScrumMaster, Project Manager, Team\nD) Team",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "What does Scrum's definition of done help a Team produce?",
+		"answers": "A) Functionality that has been deployed to the users and delivers real business value\nB) Functionality that has been designed and analyzed\nC) Product functionality ready to be tested\nD) An increment of potentially shippable product (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "How do the principles behind the Agile Manifesto suggest approaching architecture?",
+		"answers": "A) Architecture emerges (Correct Answer)\nB) Architecture is not important, but functionality is important\nC) Architecture is defined and planned up front\nD) Architecture is defined and implemented in the first iterations",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "How are the Product Owner's responsibilities BEST described?",
+		"answers": "A) Directing the Team's daily activities\nB) Keeping stakeholders from distracting the Team\nC) Managing the project and ensuring that the work meets the commitments to the stakeholders\nD) Optimizing the business value of the work (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "After a Team has committed to a Sprint goal, what authority does it have?",
+		"answers": "A) The Team has authority to swap Sprint backlog items with Product Backlog items if it cannot finish them.\nB) The Team works under the authority of the Product Architect, who has set the definition of done\nC) The Team works according to the priorities set by the ScrumMaster, as the ScrumMaster is committed to the Scrum framework\nD) The Team does whatever is necessary to achieve the goal (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "Which of the following is a MAIN purpose of a Sprint Backlog?",
+		"answers": "A) For the ScrumMaster to manage the progress during the Sprint\nB) For the Team to manage themselves during the Sprint (Correct Answer)\nC) For the Team to manage the number of hours spent on tasks in the Sprint\nD) For the Product Owner to understand what the Team has committed to for a Sprint",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "What is the main purpose of a Sprint Review?",
+		"answers": "A) For the Team to review their work and to determine what is needed to complete the next set of backlog items\nB) For Stakeholders to review what the Team has built and to give input on what to do next (Correct Answer)\nC) For Stakeholders to \"hold the Team's feet to the fire\" - to make sure something is produced during the Sprint\nD) For the Product Manager to be able to show progress to the Stakeholders",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "What does the Team do during the first Sprint?",
+		"answers": "A) Delivers design documents\nB) Develops a plan for the rest of the Sprints\nC) Accomplishes the Sprint goal (Correct Answer)\nD) Predetermines the complete architecture and infrastructure",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "When using Scrum, who is primarily responsible for making scope versus schedule trade-off decisions?",
+		"answers": "A) The Project Manager\nB) The Team\nC) The Product Owner (Correct Answer)\nD) The ScrumMaster",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "Can the Product Owner and the ScrumMaster be the same person?",
+		"answers": "A) No. The person would have too much power and it would create confusion (Correct Answer)\nB) Yes, if the person has the authority and empowerment to do both things\nC) No. It would take too much of one person's time\nD) Yes, as long as the person can balance both responsibilities with care",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "How does the Agile Manifesto address planning?",
+		"answers": "A) Planning is not required in an agile project, as the project is focused on current status\nB) Responding to change is more important than following a plan (Correct Answer)\nC) Sign-off on the detail of Product Backlog items is mandatory before any item can be planned into an iteration.\nD) Upfront planning and design is an integral stage before development can begin.",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "When should the Burndown Chart be updated?",
+		"answers": "A) After every Sprint\nB) After every day (Correct Answer)\nC) After every release\nD) After every week",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "Once a Team starts a Sprint, who determines how the Team does its work?",
+		"answers": "A) Project Manager\nB) Team lead\nC) ScrumMaster\nD) Team (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "Which statement is accurate about the role of the Product Owner during the Daily Scrum?",
+		"answers": "A) The Product Owner's participation is defined by the Team (Correct Answer)\nB) The Product Owner outlines the additional changes that must be absorbed by the Team in the Sprint\nC) The Product Owner ensures the Burndown rate is maintained at the estimated rate\nD) The Product Owner provides instruction to the Team on how to implement a workable solution",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "The CEO asks the Team to add a story to the current Sprint. What should the Team do?",
+		"answers": "A) Respect the CEO's authority and add the story to the current Sprint without any adjustments\nB) Add the story to the next Sprint.\nC) Inform the Product Owner so he/she can work with the CEO (Correct Answer)\nD) Add the story to the current Sprint and drop a story of equal size",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "What is MOST likely to result if the Product Owner is not available during a Sprint?",
+		"answers": "A) The Team extends the length of the Sprint until the Product Owner returns\nB) The ScrumMaster assumes the responsibilities of the Product Owner.\nC) The Sprint is abnormally terminated\nD) The product increment may not meet expectations (Correct Answer)",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "Agile Manifesto says to value responding to change over following a plan. Which of the following statements illustrates this?",
+		"answers": "A) Changes are accepted only if other features are removed from the backlog such that a fixed end-date is maintained\nB) Changes are accepted up until the point that the first Sprint begins. Then, changes are deferred to a future release\nC) Changes are accepted at any time during the development effort depending on the business value of the change, the Product Owner's acceptance, and the ability of the team to respond in a timeframe acceptable to the Product Owner (Correct Answer)\nD) Changes are accepted up until about halfway through the project, then all changes are deferred to a future release",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "What is the approach that Scrum encourages when a Team determines it will be difficult to deliver any value by the end of a Sprint?",
+		"answers": "A) Together with the Product Owner, focus on what can be done and identify a way to deliver something valuable at the end of each Sprint (Correct Answer)\nB) Extend the Sprint by a few days to accommodate the extra work\nC) Suggest the Product Owner abnormally terminate the Sprint\nD) Immediately escalate to Senior Management.",
+		"correctAnswers": "A"
+	}
+]

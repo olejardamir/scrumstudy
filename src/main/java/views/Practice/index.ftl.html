@@ -1,0 +1,50 @@
+<#import "../layout/defaultLayout.ftl.html" as layout>
+<@layout.myLayout "Home page">
+<br>
+<br>
+<br>
+<br>
+<h2>Question:</h2>
+<p>${question}</p>
+<br>
+<br>
+
+<h2>Choose Answer(s):</h2>
+
+<#if answers??>
+	<#list answers as answer>
+		<#if answer??>
+			<p>${answer}</p>
+		</#if>
+	</#list>
+	<#else>
+		<script> next();</script>
+ </#if>
+
+
+<div id="answer" style="visibility: hidden">
+    <h2>Answer is:</h2>
+    <p>${solution}</p>
+</div>
+
+<button type="button" id="button1" onclick="show()">Show Answer(s)</button><br>
+<button type="button" id="button2" onclick="next()" style="visibility: hidden">Next Question</button>
+
+
+<script>
+  function show(){
+document.getElementById('answer').style.visibility= 'visible' ;
+document.getElementById('button2').style.visibility= 'visible' ;
+document.getElementById('button1').style.visibility= 'hidden' ;
+ }
+
+ function next(){
+ window.location.href = "./practice";
+
+ }
+
+</script>
+
+
+</@layout.myLayout>
+

@@ -1,0 +1,177 @@
+[
+	{
+		"question": "\nWhat is the maximum amount of time that the team should spend in the daily scrum?",
+		"answers": "A) As long as it takes\nB) 1 hour\nC) 45 minutes\nD) 15 minutes\nE) 15 minutes, proportionally less for shorter Sprints",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nPlease select which statement is the most accurate:",
+		"answers": "A) Agile Development is an implementation of Scrum\nB) Scrum is an implementation of Agile Development\nC) Agile Development and Scrum are synonyms for the same methodology\nD) Agile Development and Scrum are contrasting methodologies",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nWhich of the following is not a Product Owner responsibility?",
+		"answers": "A) Running the daily scrum meeting\nB) Working with stakeholders to determine and detail product features\nC) Gathering requirements for Product Backlog items\nD) Inspecting work at Sprint Review",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nHow should items in the Product Backlog be ordered?",
+		"answers": "A) Alphabetically first and then by list order in the Product Backlog\nB) Grouped by business features first and then chronologically by date of original business request\nC) Prioritized by business importance first) The items that result in biggest ROI, must be priorized first;\nD) Chronologically by date of original business request first and then by list order in the Product Backlog",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich of the following is a role in the Scrum framework?",
+		"answers": "A) Database Admin\nB) Development Team\nC) QA Tester\nD) Senior Developer",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nThe Scrum Framework encompasses rules or guidelines for documentation?",
+		"answers": "A) True\nB) False",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nThe individual, detailed pieces of work that are needed to convert a product backlog item into a working\nsoftware component or solution are called:",
+		"answers": "A) User Stories\nB) Use cases\nC) Line items\nD) Tasks",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nWhy does Scrum prevent Product Owners from changing Product Backlog items that are being worked on during the Sprint?",
+		"answers": "A) The development team cannot meet their Sprint commitment to complete work if requirements are\nchanging\nB) A Sprint cycle is not enough time for senior management review and approve changes\nC) This forces Product Owners to focus on what is really important for the team to develop\nD) The development team must be able to limit the Product Owner authority",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nWhich of the following is not a Scrum artifact?",
+		"answers": "A) User Stories\nB) Sprint Backlog\nC) Product Backlog\nD) Software increment",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nYou are the new Scrum Master at a company currently doing RUP in three month iterations) Your current\ntask in switching from RUP to Scrum is to define how long the Sprint cycle should be) In what units of time\nshould you define the sprint cycle?",
+		"answers": "A) A fixed amount of months\nB) A fixed amount of weeks, excluding holidays\nC) A fixed amount of days\nD) A fixed amount of hours",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich of the following statements best explains what the term Sprint means in Scrum?",
+		"answers": "A) A sprint is a specific amount of days for a team to test and resolve any issues prior to product release or shipment\nB) A sprint is a specific amount of days for a team to work at a sustainable pace to finish select work.\nC) A sprint is an agreed upon period of time for team members to select individual items from the product\nbacklog to work on.\nD) A sprint is a specific amount of days for a team to work as many hours as needed to finish assigned\nwork",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\n_____________ can change the priority of items in the _________ backlog at any time..",
+		"answers": "A) The Team; Product\nB) The Product Owner(s); Sprint\nC) The Product Owner(s); Product\nD) The Scrum Master; Sprint",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich of the following is not a Scrum cycle activity?",
+		"answers": "A) Sprint retrospective\nB) Daily scrum\nC) Weekly inspection\nD) Sprint planning",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich of the following statements best describes Product Backlog items?",
+		"answers": "A) Undefined or poorly defined Product Backlog items should be placed on the Product Backlog with a low priority\nB) All Product Backlog items are the result of a(n) analysis, requirements and/or design phase(s).\nC) Undefined or poorly defined Product Backlog items should be kept out from the Product Backlog until\nsufficient detail is known.\nD) Every Product Backlog item, whether low priority or high priority, should possess sufficient detail for the\nTeam to complete in a Sprint.",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\n________________ constitute the Sprint Backlog and are often estimated in hours?",
+		"answers": "A) User Stories\nB) Use Cases\nC) Features\nD) Tasks",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nUnder what circumstances should separate Product Backlogs be maintained?",
+		"answers": "A) There are several Product Owners for one product) Each Product Owner should have their own Product Backlog\nB) There are multiple teams working on independent products) Each unique combination of team and\nproduct should have an independent Product Backlog\nC) There are multiple product features being developed by the same team.\nD) There are multiple teams working on the components of the same product) Each team should an\nindependent Product Backlog",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nWho determines whether the development team has been assigned enough work in a Sprint?",
+		"answers": "A) The Development Team\nB) The Product Owner\nC) The Product Owner and the Scrum Master\nD) The Scrum Master",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nWhich of the following is not a Product Owner responsibility?",
+		"answers": "A) Maintaining the Product Backlog with current information\nB) Working with stakeholders to determine and detail product features\nC) Assigning tasks to team members\nD) Prioritizing the Product Backlog",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich of the following activity occurs at the end of the Sprint?",
+		"answers": "A) Software development\nB) Release deployment\nC) Sprint review meeting\nD) Quality assurance testing",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhat does the Scrum Development Team attempt to develop every Sprint?",
+		"answers": "A) A product that is ready for customer delivery\nB) A completed Sprint Backlog\nC) A product that is ready for QA and/or QC testing\nD) A product increment that is potentially-ready for customer delivery",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nA _____________________ is created during the first half of the Sprint planning meeting and a\n_________________ is created during the second half of the Sprint planning meeting?",
+		"answers": "A) Sprint Backlog, collection of tasks\nB) Product Backlog, collection of tasks\nC) Sprint Goal, Sprint Backlog\nD) Product Backlog, Sprint Backlog",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nThe Sprint planning meeting is comprised of how many sections?",
+		"answers": "A) 4\nB) 3\nC) 2\nD) 1",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nPlease select which of the following statements are true",
+		"answers": "A) The Product Owner itemizes which Product Backlog items are done and which Product Backlog items\nare not done during Sprint Review\nB) The Product Owner demonstrates potentially-shippable product features and/or components during the\nSprint Review\nC) The Scrum Master provides a report of hat happened during the Sprint\nD) The Development Team demonstrates potentially-shippable product features and/or components during the Sprint Review\nE) Feedback from stakeholders during the Sprint Review may result in additional Product Backlog items",
+		"correctAnswers": "A,B,E"
+	},
+	{
+		"question": "\nWhat is the maximum duration of each Sprint planning meeting section?",
+		"answers": "A) 1 hour\nB) 30 minutes\nC) 4 hours\nD) 2 hours\nE) 15 minutes",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nFrom the activities given, which is the latest step in sequence of the Scrum framework?",
+		"answers": "A) Daily scrum\nB) Sprint retrospective\nC) Sprint review\nD) Sprint planning",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nWhich of the following is not a Scrum Master responsibility?",
+		"answers": "A) Establish priorities together with product owner for Product Backlog items\nB) Preventing Senior Management from shifting team priorities\nC) Empowering the team\nD) Socializing scrum throughout the organization",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nWhich of the following is reflected in a Sprint Burndown Chart?",
+		"answers": "A) Team Members Name\nB) Number of Product Backlog Items Completed\nC) Number of Tasks Remaining\nD) Work Hours Remaining",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nHow many hours per day should a person on a Scrum team work?",
+		"answers": "A) A sustainable pace, usually from 7-8 hours per day.\nB) An “ideal day” measuring only when he or she is productive.\nC) However many hours are needed to get the work done.\nD) 14 hours.",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nAccording to Scrum, the amount of time for a team to plan Sprint activities is expressed in what unit of\ntime?",
+		"answers": "A) Weeks\nB) Days\nC) Hours\nD) Minutes",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nYou are the Scrum Master and your Development Team of 6 members has completed six Sprints with the\nfollowing information:\nSprint 1: 10 points\nSprint 2: 11 points\nSprint 3: 15 points\nSprint 4: 14 points\nSprint 5: 15 points\nSprint 6: 10 points\nThe remaining story points for product development total 42) What is the approximate number of Sprint\nrequired to complete product development?",
+		"answers": "A) 6\nB) 5\nC) 4\nD) 3",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nUnder what circumstances should the Product Backlog be re-prioritized?",
+		"answers": "A) The Scrum Master should re-prioritize the Product Backlog only at the end of a new Sprint\nB) The Scrum Master should re-prioritize the Product Backlog only at the beginning of a new Sprint\nC) The Team should re-prioritize the Product Backlog only at the end of a new Sprint.\nD) The Product Owner should re prioritize the Product Backlog whenever new information is learned",
+		"correctAnswers": "D"
+	},
+	{
+		"question": "\nHow could the team and other stakeholders know if a product backlog item is done?",
+		"answers": "A) They should ask to the member’s devevolpment team\nB) They should compare what was done, against the definition of Done established by the Scrum Team\nC) Ask to the Product Owner\nD) Ask to the Manager",
+		"correctAnswers": "B"
+	},
+	{
+		"question": "\nWhat is the primary objective of the daily scrum?",
+		"answers": "A) To share with the team what each member has completed in the Sprint, what each member will work on next, and to report progress roadblocks\nB) To give a status report to the Product Owner on what each member has completed in the Sprint, what\neach member will work on next, and to report progress roadblocks.\nC) To discuss work details with the team since every team member must attend the meeting\nD) To give a status report to the Scrum Master on what each member has completed in the Sprint, what\neach member will work on next, and to report progress roadblocks.",
+		"correctAnswers": "A"
+	},
+	{
+		"question": "\nWhich statement best describes what it means for an activity to be time-boxed?",
+		"answers": "A) The activity must take place on a particular date\nB) The activity must start at a particular time\nC) There is a maximum time limit for the activity\nD) There is a recommended amount of time for the activity",
+		"correctAnswers": "C"
+	},
+	{
+		"question": "\nWhich statement below best describes the primary objective of the Sprint Review?",
+		"answers": "A) The primary objective of the Sprint Review is to demo the Sprint work for Senior Management\nB) The primary objective of the Sprint Review is to demo the Sprint work and to receive feedback from the\nProduct Owner(s) on the work completed in the Sprint\nC) The primary objective of the Sprint Review is to demo the Sprint work and to receive feedback from the\nScrum Mater on the work completed in the Sprint\nD) The primary objective of the Sprint Review is to demo the Sprint work and to recommend ways to work\nbetter in the Sprint.",
+		"correctAnswers": "B"
+	}
+]
